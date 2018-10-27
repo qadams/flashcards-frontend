@@ -143,7 +143,7 @@
 
 1. As a **disgruntled registered user**, I want to **flood the web server with login attempts** so I can **overload the web server so it goes down**.
 2. As a **disgruntled registered user**, I want to **enter data in between script tags** so I can **break the website's functionality**.
-3. As a **disgruntled registered user**, I want to **perform a SQL injection** so I can **grab user credentials from the database**.
+3. As a **disgruntled registered user**, I want to **perform a SQL injection** so I can **grab user credentials from the data store**.
 4. As a **disgruntled registered user**, I want to **brute force login credentials** so I can **login to an account that isn't mine**.
 
 # Mitigation Techniques 
