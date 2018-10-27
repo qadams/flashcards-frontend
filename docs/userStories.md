@@ -172,6 +172,8 @@
 
 ## Mockups
 
+All these mockups are tied to some user story one way or the other. They are all views that have to do with a user story.
+
 ![](pictures/loginpage.png)
 
 ![](pictures/registerpage.png)
@@ -188,4 +190,16 @@
 
 ## Architecture Diagram
 
+### Level 1: System Context
+
+![](pictures/contextArch.png)
+
+### Level 2: Containers
+
+![](pictures/containersArch.png)
+
+
+### Level 3: Components
+
+![]()
 
